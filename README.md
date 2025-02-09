@@ -1,6 +1,6 @@
-# OpenFlight
- OpenFlight is a dataset containing global airports information and
-  static flight information without real time data such as daily flights.
+# Open_Skies
+ OpenSkies is a Big dataset Work in progress containing Worldwide Airports information and
+  basic flight information without real time data, such as daily flights schedules.
 
 ## Data
   
